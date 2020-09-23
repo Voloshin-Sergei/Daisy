@@ -323,3 +323,46 @@ body .portfolio .container-filter div:hover .fil {
   cursor: pointer;
   display: block;
 }
+body .our_team {
+  background: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 30px;
+}
+body .our_team .wrap {
+  display: flex;
+  justify-content: space-around;
+}
+body .our_team .wrap .people {
+  text-align: center;
+  margin-bottom: 15px;
+}
+body .our_team .wrap a {
+  color: #414141;
+  font-size: 30px;
+  text-decoration: none;
+}
+body .our_team .wrap a:hover {
+  color: #868686;
+}
+body .our_team .wrap p {
+  color: grey;
+}
+body .our_team .wrap h3 {
+  color: #414141;
+  padding-bottom: 5px;
+}
+body .our_team .wrap h3 span {
+  color: #fc635e;
+}
+body .our_team h1 {
+  text-transform: uppercase;
+  color: grey;
+  text-decoration: underline;
+  padding-bottom: 5px;
+}
+body .our_team h1 span {
+  color: #fc635e;
+}
