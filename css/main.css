@@ -145,7 +145,7 @@ body .our_process .steps {
 }
 body .our_process h2,
 body .our_process p {
-  color: gray;
+  color: #808080;
 }
 body .our_process h2 {
   text-decoration: underline;
@@ -185,7 +185,7 @@ body .wedo3 h3,
 body .wedo1 p,
 body .wedo2 p,
 body .wedo3 p {
-  color: grey;
+  color: #808080;
 }
 body .wedo1 p,
 body .wedo2 p,
@@ -249,14 +249,14 @@ body .portfolio h2 {
   margin: 50px 0;
   padding-bottom: 5px;
   border-bottom: 3px solid #b1b1b1;
-  color: grey;
+  color: #808080;
 }
 body .portfolio .controls {
   text-align: center;
   letter-spacing: 2px;
   font-size: 25px;
-  border-top: 3px grey solid;
-  border-bottom: 3px solid grey;
+  border-top: 3px #808080 solid;
+  border-bottom: 3px solid #808080;
   padding: 15px;
   margin-bottom: 30px;
 }
@@ -348,7 +348,7 @@ body .our_team .wrap a:hover {
   color: #868686;
 }
 body .our_team .wrap p {
-  color: grey;
+  color: #808080;
 }
 body .our_team .wrap h4 {
   color: #414141;
@@ -359,7 +359,7 @@ body .our_team .wrap h4 span {
 }
 body .our_team h2 {
   text-transform: uppercase;
-  color: grey;
+  color: #808080;
   text-decoration: underline;
   padding-bottom: 5px;
 }
