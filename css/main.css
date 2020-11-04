@@ -113,7 +113,6 @@ body .icons {
   display: flex;
 }
 body .icons h4 {
-  text-decoration: underline;
   text-transform: uppercase;
 }
 body .icons p {
@@ -146,9 +145,6 @@ body .our_process .steps {
 body .our_process h2,
 body .our_process p {
   color: #808080;
-}
-body .our_process h2 {
-  text-decoration: underline;
 }
 body .our_process p {
   tab-size: 18px;
@@ -192,11 +188,6 @@ body .wedo2 p,
 body .wedo3 p {
   font-style: 18px;
   padding-bottom: 15px;
-}
-body .wedo1 h2,
-body .wedo2 h2,
-body .wedo3 h2 {
-  text-decoration: underline;
 }
 body .wedo1 h3,
 body .wedo2 h3,
@@ -359,8 +350,6 @@ body .our_team .wrap h4 span {
 }
 body .our_team h2 {
   text-transform: uppercase;
-  color: #808080;
-  text-decoration: underline;
   padding-bottom: 5px;
 }
 body .our_team h2 span {
