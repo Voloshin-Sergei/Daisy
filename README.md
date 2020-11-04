@@ -1,6 +1,10 @@
 # Daisy
+## Flexbox Layout intensive
 
-Верстка по учебному макету для отработки навыков работы с:
-* GIT
+### Done:
+* layout responsive
+* mixitup library for image gallery
 * LESS
-* flexbox
+
+---
+[result of work](https://voloshin-sergei.github.io/Daisy/)
